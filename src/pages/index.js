@@ -5,7 +5,7 @@ import { Layout } from "../components/layout"
 import { Image } from "../components/image"
 import { SEO } from "../components/seo"
 
-export const IndexPage = () => (
+const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
@@ -18,4 +18,4 @@ export const IndexPage = () => (
   </Layout>
 )
 
-// export default IndexPage
+export default IndexPage

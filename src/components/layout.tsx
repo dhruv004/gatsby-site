@@ -9,7 +9,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 import { Header } from "./header"
-import "./layout.css"
+import "typeface-inconsolata";
 
 export const Layout: React.FunctionComponent<{}> = ({ children }) => {
   const data = useStaticQuery(graphql`
