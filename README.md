@@ -92,6 +92,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deployed to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://elastic-kare-503c2a.netlify.com/)
+[![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://elastic-kare-503c2a.netlify.com/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
